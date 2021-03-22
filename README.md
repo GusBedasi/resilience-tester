@@ -1,6 +1,6 @@
 # Resilience Tester
 
-![Request failed](https://i.gifer.com/WJt9.gif)
+![Resilience](https://i.gifer.com/7Ue.gif)
 
 Aplicação criada com o objetivo de disponibilizar para o público uma API para testes de resiliência.
 
