@@ -19,6 +19,8 @@ Basicamente essa aplicação te retorna as respostas de acordo com a rota e com 
 
 # Usage
 
+A aplicação já está no ar e pode ser encontra na url: *www.resiliencetestes.com.br*, por enquanto não temos visualização pelo browser, só aceitamos requests.
+
 ## Rotas
 * Fail
 * Timeout
